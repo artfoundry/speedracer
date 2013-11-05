@@ -17,3 +17,32 @@ body{
 #time {
   color: white;
 }
+
+#all_text {
+  padding: 1px 20px 1px 20px;
+}
+
+#box {
+  background-color: black;
+  opacity: .8;
+  position: absolute; 
+  width: 500px; 
+  height: 200px;
+  margin: 0 auto; 
+  left: 30%; 
+  top: 50%;
+  text-align: center;
+}
+
+#input {
+  position: absolute;
+  margin: 0 auto;
+  left: 35%;
+}
+
+#message {
+  position: absolute;
+  margin: 0 auto;
+  bottom: 10%;
+  left: 23%;
+}
