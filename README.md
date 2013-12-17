@@ -1,4 +1,5 @@
-Comparer (core up)
-displays what to type
-feedback
-timer
+Summary
+=======
+Typeracer type game built with Javascript, Ruby, Sinatra, and CSS.
+
+Hosted at http://speedtyperacer.herokuapp.com
